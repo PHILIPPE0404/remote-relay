@@ -1,4 +1,4 @@
 @echo off
 title Remote Relay - Operateur
-py operator.py
+py remote_operator.py
 pause
